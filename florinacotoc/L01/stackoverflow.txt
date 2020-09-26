@@ -1,0 +1,6 @@
+Site destinat in rezolvarea problemelor de development. 
+Acest site este unul de tip intrebari-raspunsuri.
+Pentru a putea trimite intrebari trebuie creat un cont, bineinteles pentru a cauta intrebari nu este necesar 
+crearea unui cont. 
+In functie de cate raspunsuri corecte primeste intrebarea poti urca in ierarhie, raspunsul corect fiind
+evaluat de utilizator. 
