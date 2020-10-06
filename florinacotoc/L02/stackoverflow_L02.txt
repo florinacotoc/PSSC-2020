@@ -1,0 +1,14 @@
+Events : 
+-Ask question
+-Add/edit response
+-Delete question
+-Delete response
+-Vote question & response
+-Tag your question
+-Get recognized
+
+Context :
+-Question context
+-Reponse context
+-Vote context
+-Reputation context
