@@ -1,0 +1,24 @@
+Workflow - Stackoverflow 
+
+Bounded context: "Question context"
+	Workflow "Create Question"
+		Triggered by: "Create question request received"
+		Input: "Question form" (Title, Body, Tags)
+		Other inputs: "Similar questions to check"
+		Output: "Question created" event
+		Side effects: Notification email for answers to you question sent to the user
+
+Workflow: "Create question"
+	Input: "Search for question -pop-up window  & Question form"
+		"Review question"
+output: "question created" event or invalid question
+
+Step 1: 
+validate question title, question body,question tags
+	if form is invalid then
+		stop
+Step 2 :
+	Review your question
+Step 3: 
+	Publish your question
+
